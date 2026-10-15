@@ -62,7 +62,7 @@ source="phishing_parsed.json"
 
 **Result:** 7,744 total IP hops extracted. Traffic is dominated by internal relay IPs (192.168.6.4 — 20.6%, 192.168.4.9 — 17.9%), with a smaller set of external/public IPs (193.146.180.21, 66.93.12.142, 204.118.128.73) indicating the actual originating mail servers.
 
-![Sender IP Analysis](screenshots/04_sender_ip_analysis.png)
+![Sender IP Analysis](screenshots/08_yearly_phishing_trend.png)
 
 ---
 
@@ -125,7 +125,7 @@ source="phishing_parsed.json"
 
 **Result:** Phishing volume in this dataset grows sharply year over year — from a handful of emails in 2000–2004, to 244 in 2005, 691 in 2006, and 1,278 in 2007 — reflecting the real-world explosion of phishing campaigns during that period.
 
-![Yearly Phishing Trend](screenshots/08_yearly_phishing_trend.png)
+![Yearly Phishing Trend](screenshots/04_sender_ip_analysis.png)
 
 ---
 
